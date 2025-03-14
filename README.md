@@ -30,5 +30,10 @@ Nome: João | Estoque: 27 | Preco: 180.0
 Nome: João | Estoque: 37 | Preco: 180.0
 
 ```
-## 📜 License
-This project is licensed under the MIT License.
+<h2 id=author>:grin: Autor</h2>
+
+Developed by <a href="www.linkedin.com/in/leticia-eto-filo-candido-a05068304" target="_blank">Leticia Eto</a>
+
+<h2 id=licence>:lock: License 📄</h2>
+<a href="https://github.com/Leticia-Eto/GreetingApp/blob/main/LICENSE" target="_blank">MIT</a>
+
