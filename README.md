@@ -14,7 +14,7 @@ To use this project, you need to have Dart installed. If you haven't installed D
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-username/dart-product-manager.git
+git clone https://github.com/Leticia_Eto/dart-product-manager.git
 cd dart-product-manager
  ```
 ## 🚀 Usage
